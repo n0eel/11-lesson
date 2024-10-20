@@ -1,0 +1,13 @@
+{
+  "users": [],
+  "teacehrs": [
+    {
+      "id": "1",
+      "img": "",
+      "name": "Kenzo",
+      "surname": "Tenma",
+      "age": "27",
+      "study": "Düsseldorf University"
+    }
+  ]
+}
